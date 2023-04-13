@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "seafoamsdyeablebop:block/dyeable_smooth_white_sandstone_slab" },
+        "type=top": { "model": "seafoamsdyeablebop:block/dyeable_smooth_white_sandstone_slab_top" },
+        "type=double": { "model": "seafoamsdyeablebop:block/dyeable_smooth_white_sandstone" }
+    }
+}

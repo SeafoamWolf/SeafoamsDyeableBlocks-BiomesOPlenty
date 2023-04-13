@@ -2,14 +2,16 @@
 {
     "replace": false,
     "values": [
-        "minecraft:oak_stairs",
-        "minecraft:birch_stairs",
-        "minecraft:spruce_stairs",
-        "minecraft:jungle_stairs",
-        "minecraft:acacia_stairs",
-        "minecraft:dark_oak_stairs",
-        "minecraft:crimson_stairs",
-        "minecraft:warped_stairs",
-        "minecraft:mangrove_stairs"
+        "biomesoplenty:fir_stairs",
+        "biomesoplenty:redwood_stairs",
+        "biomesoplenty:cherry_stairs",
+        "biomesoplenty:mahogany_stairs",
+        "biomesoplenty:jacaranda_stairs",
+        "biomesoplenty:palm_stairs",
+        "biomesoplenty:willow_stairs",
+        "biomesoplenty:dead_stairs",
+        "biomesoplenty:magic_stairs",
+        "biomesoplenty:umbran_stairs",
+        "biomesoplenty:hellbark_stairs"
     ]
 }

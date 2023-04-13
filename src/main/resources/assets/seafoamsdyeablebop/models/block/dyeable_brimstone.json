@@ -1,0 +1,6 @@
+{
+  "parent": "seafoamsdyeableblocks:block/dyeable_block",
+  "textures": {
+      "all": "seafoamsdyeablebop:block/dyeable_brimstone"
+  }
+}

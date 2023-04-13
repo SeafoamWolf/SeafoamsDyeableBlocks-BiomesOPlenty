@@ -1,0 +1,6 @@
+{
+  "parent": "seafoamsdyeableblocks:block/dyeable_block",
+  "textures": {
+    "all": "biomesoplenty:block/white_sandstone_top"
+  }
+}

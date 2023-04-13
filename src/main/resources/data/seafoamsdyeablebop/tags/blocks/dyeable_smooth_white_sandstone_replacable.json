@@ -1,0 +1,9 @@
+
+{
+    "replace": false,
+    "values": [
+        "biomesoplenty:smooth_white_sandstone",
+        "biomesoplenty:smooth_orange_sandstone",
+        "biomesoplenty:smooth_black_sandstone"
+    ]
+}

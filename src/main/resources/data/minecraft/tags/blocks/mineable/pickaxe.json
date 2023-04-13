@@ -1,15 +1,15 @@
 {
-  "replace": false,
-  "values": [
-	  "seafoamsdyeableblocks:dyeable_concrete",
-	  "seafoamsdyeableblocks:dyeable_concrete_stairs",
-	  "seafoamsdyeableblocks:dyeable_concrete_slab",
-	  "seafoamsdyeableblocks:dyeable_bricks",
-	  "seafoamsdyeableblocks:dyeable_brick_stairs",
-	  "seafoamsdyeableblocks:dyeable_brick_slab",
-	  "seafoamsdyeableblocks:dyeable_terracotta",
-	  "seafoamsdyeableblocks:dyeable_terracotta_stairs",
-	  "seafoamsdyeableblocks:dyeable_terracotta_slab",
-	  "seafoamsdyeableblocks:dyeable_iron_bars"
-  ]
+	"replace": false,
+	"values": [
+		"seafoamsdyeablebop:dyeable_white_sandstone",
+		"seafoamsdyeablebop:dyeable_chiseled_white_sandstone",
+		"seafoamsdyeablebop:dyeable_cut_white_sandstone",
+		"seafoamsdyeablebop:dyeable_white_sandstone_stairs",
+		"seafoamsdyeablebop:dyeable_white_sandstone_slab",
+		"seafoamsdyeablebop:dyeable_cut_white_sandstone_slab",
+		"seafoamsdyeablebop:dyeable_smooth_white_sandstone",
+		"seafoamsdyeablebop:dyeable_smooth_white_sandstone_stairs",
+		"seafoamsdyeablebop:dyeable_smooth_white_sandstone_slab",
+		"seafoamsdyeablebop:dyeable_brimstone"
+	]
 }

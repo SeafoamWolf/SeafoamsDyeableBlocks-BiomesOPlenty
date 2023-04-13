@@ -2,14 +2,16 @@
 {
     "replace": false,
     "values": [
-        "minecraft:oak_slab",
-        "minecraft:birch_slab",
-        "minecraft:spruce_slab",
-        "minecraft:jungle_slab",
-        "minecraft:acacia_slab",
-        "minecraft:dark_oak_slab",
-        "minecraft:crimson_slab",
-        "minecraft:warped_slab",
-        "minecraft:mangrove_slab"
+        "biomesoplenty:fir_slab",
+        "biomesoplenty:redwood_slab",
+        "biomesoplenty:cherry_slab",
+        "biomesoplenty:mahogany_slab",
+        "biomesoplenty:jacaranda_slab",
+        "biomesoplenty:palm_slab",
+        "biomesoplenty:willow_slab",
+        "biomesoplenty:dead_slab",
+        "biomesoplenty:magic_slab",
+        "biomesoplenty:umbran_slab",
+        "biomesoplenty:hellbark_slab"
     ]
 }
